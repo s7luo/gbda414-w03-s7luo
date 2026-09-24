@@ -3,7 +3,8 @@ let video;
 let faces = [];
 
 // CHANGE ONLY THE COLOUR BELOW
-let maskColour = "#ff2bd6";
+let maskColour = #b6ff00";
+
 
 let options = {
   maxFaces: 1,
